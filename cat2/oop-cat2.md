@@ -467,6 +467,7 @@ int main() {
 <div style="page-break-after: always;"></div>
 
 Question 13
+
 i. Data members accessible from objects belonging to class Author:
 
 - acode
@@ -477,7 +478,7 @@ i. Data members accessible from objects belonging to class Author:
 
 ii. Member functions accessible from objects belonging to class Branch:
 
-- Branch()
+- Branch() constructor
 - haveit()
 - giveit()
 
@@ -487,6 +488,6 @@ iii. Members accessible from member functions of class Author:
 - aname
 - amount
 - register()
-- Publisher()
+- Publisher() constructor
 - enter()
 - display()
